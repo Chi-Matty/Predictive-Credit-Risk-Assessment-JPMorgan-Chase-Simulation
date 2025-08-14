@@ -14,4 +14,13 @@ Built a logistic regression model to predict personal loan default probabilities
 
 - Engineered features, including FICO score buckets using KBinsDiscretizer with KMeans binning.
 
-## Tools 
+## Tools & Technologies
+	•	Python – Core programming language used for data processing and modeling.
+	•	Pandas & NumPy – Data manipulation and numerical computations.
+	•	scikit-learn – Logistic regression, model evaluation, and feature engineering (KBinsDiscretizer, train_test_split, accuracy_score). 
+
+# Contact
+For collaboration or professional inquiries:  
+- **Email:** [mathiasmichael2@gmail.com](mailto:mathiasmichael2@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/michael-matty](https://www.linkedin.com/in/michael-matty)
+
