@@ -21,6 +21,6 @@ Built a logistic regression model to predict personal loan default probabilities
 
 # Contact
 For collaboration or professional inquiries:  
-- **Email:** [mathiasmichael2@gmail.com](mailto:mathiasmichael2@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/michael-matty](https://www.linkedin.com/in/michael-matty)
+- [Email](mailto:mathiasmichael2@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/michael-matty)
 
