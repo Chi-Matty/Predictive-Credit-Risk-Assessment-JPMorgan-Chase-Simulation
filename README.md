@@ -21,8 +21,3 @@ Built a logistic regression model to predict personal loan default probabilities
 
 ### [View the Script](https://github.com/Chi-Matty/Predictive-Credit-Risk-Assessment-JPMorgan-Chase-Simulation/blob/main/credit_risk_analysis.ipynb)
 
-# Contact
-For collaboration or professional inquiries:  
-- [Email](mailto:mathiasmichael2@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/michael-matty)
-
